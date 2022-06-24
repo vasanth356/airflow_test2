@@ -1,0 +1,17 @@
+psql
+psql
+ls
+ls
+psql
+psql
+psql
+psql
+psql
+psql
+quit
+q
+quit
+Z
+
+psql
+q
